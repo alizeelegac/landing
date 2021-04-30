@@ -1,0 +1,50 @@
+.navigationbar li {
+    display: inline;
+}
+
+.navigationbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+ color: #2696af
+
+}
+
+.navigationbar li a:hover {
+	text-decoration: underline;
+	font-weight: bolder; 
+}
+
+.navigationbar img {
+
+width: 100px
+}
+
+.navigationbar {
+margin-left: auto;
+margin-right: auto;
+width: 700px;
+
+}
+
+.navigationbar img {
+	margin-right: 50px;
+	padding-top: 10px;
+}
